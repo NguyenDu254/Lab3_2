@@ -1,0 +1,16 @@
+D:\Winform\Lab3-Bai1\Lab3-Bai1\bin\Debug\Lab3-Bai1.exe.config
+D:\Winform\Lab3-Bai1\Lab3-Bai1\bin\Debug\Lab3-Bai1.exe
+D:\Winform\Lab3-Bai1\Lab3-Bai1\bin\Debug\Lab3-Bai1.pdb
+D:\Winform\Lab3-Bai1\Lab3-Bai1\bin\Debug\Interop.WMPLib.dll
+D:\Winform\Lab3-Bai1\Lab3-Bai1\bin\Debug\AxInterop.WMPLib.dll
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.csproj.AssemblyReference.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Interop.WMPLib.dll
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\AxInterop.WMPLib.dll
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.csproj.ResolveComReference.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3_Bai1.Properties.Resources.resources
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.csproj.GenerateResource.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.csproj.CoreCompileInputs.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.exe
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3-Bai1.pdb
+D:\Winform\Lab3-Bai1\Lab3-Bai1\obj\Debug\Lab3_Bai1.frmBai1.resources

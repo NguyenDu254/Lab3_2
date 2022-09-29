@@ -1,0 +1,11 @@
+D:\Winform\Lab3-Bai1\Lab3-Bai2\bin\Debug\Lab3-Bai2.exe.config
+D:\Winform\Lab3-Bai1\Lab3-Bai2\bin\Debug\Lab3-Bai2.exe
+D:\Winform\Lab3-Bai1\Lab3-Bai2\bin\Debug\Lab3-Bai2.pdb
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.csproj.AssemblyReference.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3_Bai2.Form1.resources
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3_Bai2.Properties.Resources.resources
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.csproj.GenerateResource.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.csproj.CoreCompileInputs.cache
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.exe
+D:\Winform\Lab3-Bai1\Lab3-Bai2\obj\Debug\Lab3-Bai2.pdb
